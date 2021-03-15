@@ -1,4 +1,3 @@
-# Here's a Python version:
 from math import radians, cos, sin, asin, sqrt
 def haver_sine(lon1, lat1, lon2, lat2):
     # converting Decimal degrees to radians
