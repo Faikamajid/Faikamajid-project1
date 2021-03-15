@@ -17,6 +17,6 @@ y2 = float(input("Enter latitude FOR location  2:"))
 km=(haver_sine(x1, y1, x2, y2))
 #print("Distance in kilometers is :",km)
 if km<=1:
-    print("YES")
+    print("YES distance is within range of 1km")
 else:
-    print("NO")
+    print("NO distance is'nt within range of 1km")
